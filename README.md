@@ -19,8 +19,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Item 1
 - Item 2
 - Item 3
-- 
-- 
+  
 
 <h2>Configuration Steps</h2>
 
