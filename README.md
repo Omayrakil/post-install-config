@@ -21,31 +21,47 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Item 1
 - Item 2
 - Item 3
-- Item 4
-- Item 5
+  
 
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/0GAEeFE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/9pZ2bRH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<p>Configure Roles <p>
+Admin Panel -> Agents -> Roles
+<p> Configure Departments<p>
+Admin Panel -> Agents -> Departments <p>
+<p>Configure Teams<p>
+Admin Panel -> Agents -> Teams<p>
+Allow anyone to create tickets <p>
+Admin Panel -> Settings -> User Settings<p>
+Registration Required: Require registration and login to create tickets <p>
+Configure Agents (workers)<p>
+Admin Panel -> Agents -> Add New<p>
+Configure SLA<p>
+Admin Panel -> Manage -> SLA<p>
+Configure Help Topics<p>
+Admin Panel -> Manage -> Help Topics
+
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/XhFUf0D.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Configure Users (customers) <p></p>
+Agent Panel -> Users -> Add New
+
 </p>
 <br />
